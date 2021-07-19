@@ -5,8 +5,6 @@ import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.DeliverCallback;
 
-import java.awt.*;
-import java.awt.List;
 import java.util.*;
 
 /**
